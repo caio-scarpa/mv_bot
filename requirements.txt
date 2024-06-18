@@ -1,0 +1,9 @@
+flask
+opsgenie_sdk
+requests
+pyopenssl
+pytz
+requests_toolbelt
+python-dotenv
+coloredlogs 
+pymongo
